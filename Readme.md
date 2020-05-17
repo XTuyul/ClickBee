@@ -11,6 +11,8 @@
 `git clone https://github.com/xtuyul/ClickBee`  
 `pip install --upgrade pip`  
 `pip install requests bs4 telethon pyaes`   `async_generator colorama`  
+`cd ClickBee`  
+`python main.py`  
 
 **COMMAND Prompt**  
 `cd Clickbee`  
