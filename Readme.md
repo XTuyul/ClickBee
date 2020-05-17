@@ -4,7 +4,7 @@
 🐝 [https://t.me/ClickBeeBot](https://t.me/ClickBeeBot?start=333038096)🐝 
 
 **INSTALLATION ON TERMUX**  
-`pkg update --upgrade pkg`  
+> `pkg update --upgrade pkg`  
 `pkg install python`  
 `pkg install git`  
 `termux-setup-storage`  
@@ -15,11 +15,11 @@
 `python main.py`  
 
 **COMMAND Prompt**  
-`cd Clickbee`  
+> `cd Clickbee`  
 `python main.py +[phone]`  
 
 ****NOTE :** 
-[phone] : _Use International Code Phone are Registered Clicke Bot in Telegam_  
+[phone] : _Use International Code Phone are Registered [@ClickbeeBot](https://t.me/ClickBeeBot?start=333038096) in Telegam_  
 
 **DOWNLOAD APK**  
 [New Termux.Apk](https://adsafelink.com/fNBGxLDAFd)
